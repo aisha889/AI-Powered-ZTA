@@ -30,14 +30,6 @@ It started as a personal experiment and became a working lab to practice the kin
 
 ---
 
-## 📁 Files Included
-
-- `ueba_lab.ipynb` → interactive notebook with full code & visuals  
-- `simulated_user_activity_logs.csv` → generated user login logs  
-- `README.md` → this document
-
----
-
 ## 🧠 What It Does
 
 1. **Simulates** 1000+ normal user login records + 50 abnormal ones
