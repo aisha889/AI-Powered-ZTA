@@ -50,8 +50,10 @@ It started as a personal experiment and became a working lab to practice the kin
 
 ## 🧑‍💻 Sample Output
 ### 📊 Anomaly Distribution (Bar Chart)
-![Screenshot 2025-07-09 084741](https://github.com/user-attachments/assets/037a89ba-9332-44c4-a7d0-de39f96d3a8b)
+![Anomaly Graph](https://github.com/user-attachments/assets/8aa300e8-f4b8-46ad-bff7-8a2c30826f8a)
+
 ### 🔍 Flagged Login Activity
-![Screenshot 2025-07-09 084658](https://github.com/user-attachments/assets/d7791277-828d-4892-93d2-4dec61691138)
+![Login Table](https://github.com/user-attachments/assets/7d05c154-49ea-4f44-96a7-64ee4e6e6589)
+
 
 
